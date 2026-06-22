@@ -56,16 +56,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=driohcker&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=driohcker&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=driohcker&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=driohcker&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=driohcker&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=driohcker&theme=default&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=driohcker&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=driohcker&theme=flat&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -75,16 +75,16 @@
 <div align="center">
 
   <a href="https://github.com/driohcker/AIChatByDeepSeek_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=driohcker&repo=AIChatByDeepSeek_App&theme=radical&hide_border=true&bg_color=0D1117" alt="AIChatByDeepSeek_App" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=driohcker&repo=AIChatByDeepSeek_App&theme=default&hide_border=true" alt="AIChatByDeepSeek_App" />
   </a>
   <a href="https://github.com/driohcker/AutoOCRTranslator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=driohcker&repo=AutoOCRTranslator&theme=radical&hide_border=true&bg_color=0D1117" alt="AutoOCRTranslator" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=driohcker&repo=AutoOCRTranslator&theme=default&hide_border=true" alt="AutoOCRTranslator" />
   </a>
   <a href="https://github.com/driohcker/deepLearning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=driohcker&repo=deepLearning&theme=radical&hide_border=true&bg_color=0D1117" alt="deepLearning" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=driohcker&repo=deepLearning&theme=default&hide_border=true" alt="deepLearning" />
   </a>
   <a href="https://github.com/driohcker/NodeBench">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=driohcker&repo=NodeBench&theme=radical&hide_border=true&bg_color=0D1117" alt="NodeBench" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=driohcker&repo=NodeBench&theme=default&hide_border=true" alt="NodeBench" />
   </a>
 
 </div>
@@ -104,7 +104,7 @@
 ## 📫 Connect With Me
 
 <p>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:driohcker@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/driohcker">
